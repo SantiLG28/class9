@@ -1,0 +1,3 @@
+santiago;santi;1234;1234;1020485658;santiagolg;comida;pizza;color;verde;vive;medellin
+daniel;dani;1234;1234;12345;daniel123;color;verde;respuesta;respuesta;residencia;colombia
+hola;prueba;123444;123444;12311;123;12;12;12;12;221;12
